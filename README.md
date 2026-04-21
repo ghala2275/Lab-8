@@ -23,7 +23,7 @@ The following steps were carried out during the implementation:
 
 After analyzing the error rates across multiple values, the most effective K was determined to be:
 
-**K = 29**
+**K = 30**
 
 ## Performance Summary
 
